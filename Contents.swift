@@ -10,13 +10,13 @@ print("Total harga buku ini adalah \(harga)")
 
 //2
 print("Nomor 2")
-var number: Int = 25
+var number: Int = 58
 
 switch number {
 //0..<25
 case 0..<25:
     print("Develop fitur dalam 24 Jam, dapat Bonus Travelling ke Paris bersama pasangan halal plus uang saku untuk satu orang")
-case 25..<59:
+case 25..<58:
     print("Develop fitur antara 24-58, dapat Bonus ke paris dan uang saku")
 case 59...100:
     print("Hanya Diapresiasi")
